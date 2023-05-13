@@ -18,3 +18,6 @@ No decorrer da análise foram acrescentados mais 2 datasets que são atualizaç�
 4 - listings_atualizado.xlsx: lista atualizada de todas as propriedades depois da “limpeza de dados” no período entre 03/12/2008 e 21/08/2016 com 96 variáveis (colunas) e 1.343 registros (linhas).
 
 5 - listings_43propriedades.xlsx: lista atualizada depois da “limpeza de dados” com as 43 propriedades mais rentáveis do Airbnb no período entre 19/03/2010 e 28/03/2016 com 96 variáveis (colunas) e 43 registros (linhas).
+
+## Segue o link com o projeto completo:
+[Projeto Completo](https://bit.ly/projetoAirbnbBoston)
